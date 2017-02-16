@@ -169,6 +169,7 @@ declare namespace Chart {
         caretSize?: number;
         cornerRadius?: number;
         multiKeyBackground?: string;
+        displayColors: boolean;
         callbacks?: ChartTooltipCallback;
     }
 
